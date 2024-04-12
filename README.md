@@ -1,7 +1,7 @@
 
-**# Domino's Pizza Sales Dashboard**
+**# (1) Domino's Pizza Sales Dashboard**
 
-## (1)Project Objective
+## Project Objective
 This dashboard presents a visual analysis of Domino's Pizza sales data, offering insights into customer purchasing patterns, sales trends, and product performance. It serves as a tool for the sales and marketing team to optimize strategies and improve customer satisfaction.
 
 **#(2) Global Forest Insights Power BI Project**
